@@ -1,3 +1,3 @@
 # Write your code here
 def first(xs):
-    return xs
+    return xs[0]
